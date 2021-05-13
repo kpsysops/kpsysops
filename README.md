@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kpsysops
+- 👋 Hi, I’m kpsysops
 - 👀 I’m interested in SysOps & IT Automation 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing yet
