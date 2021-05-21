@@ -9,4 +9,4 @@ kpsysops/kpsysops is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Vagrating is my project of setup quickly / ad-hoc vms for small devops POC. 
+Vagrating is my project of setup quickly enviorment for DevOps/SysOps labs. 
