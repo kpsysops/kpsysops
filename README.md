@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kpsysops
 - 👀 I’m interested in SysOps & IT Automation 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Azure
 - 💞️ I’m looking to collaborate on nothing yet
 <!---- 📫 How to reach me 
 --->
